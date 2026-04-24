@@ -4,7 +4,7 @@
 <h1 align="center">Hi there 👋 I am Emon Hasan</h1>
 
 <!-- <h1 align="center">Md. Emon Hasan</h1> -->
-<h3 align="center">Machine Learning Engineer • LLM Fine-Tuning Specialist • Data-driven AI systems • Agentic AI Systems Architect</h3>
+<h3 align="center">Machine Learning Engineer • LLM Fine-Tuning Specialist • Data-driven AI Engineer • Agentic AI Systems Architect</h3>
 
 <p align="center">
 Designing data-centric AI systems, fine-tuning large language models, and deploying production-grade intelligent systems.
@@ -47,77 +47,55 @@ My work centers on **developing intelligent, adaptive, and real-world AI systems
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/md_emon_hasan01)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mdemon.hasan2001/)<br>
 
-
 ---
 
 ## 🛠️ Tech Stack
 
-### 🧠 Machine Learning (Classical ML)
+### 💻 Core Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
+### 🧠 Machine Learning (Classical ML)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Feature--Engine](https://img.shields.io/badge/Feature--Engine-4CAF50?style=for-the-badge)
-![Category--Encoders](https://img.shields.io/badge/Category--Encoders-FF6F00?style=for-the-badge)
 ![Optuna](https://img.shields.io/badge/Optuna-13C3F3?style=for-the-badge)
 ![GridSearchCV](https://img.shields.io/badge/GridSearchCV-FF6F00?style=for-the-badge)
 ![RandomizedSearchCV](https://img.shields.io/badge/RandomizedSearchCV-4CAF50?style=for-the-badge)
 ![StandardScaler](https://img.shields.io/badge/StandardScaler-2196F3?style=for-the-badge)
-![MinMaxScaler](https://img.shields.io/badge/MinMaxScaler-9C27B0?style=for-the-badge)
-![Label--Encoding](https://img.shields.io/badge/Label--Encoding-FF9800?style=for-the-badge)
 ![One--Hot--Encoding](https://img.shields.io/badge/One--Hot--Encoding-00C853?style=for-the-badge)
-![PCA](https://img.shields.io/badge/PCA-009688?style=for-the-badge)
-![t--SNE](https://img.shields.io/badge/t--SNE-795548?style=for-the-badge)
-![KMeans](https://img.shields.io/badge/KMeans-FFEB3B?style=for-the-badge)
-![DBSCAN](https://img.shields.io/badge/DBSCAN-607D8B?style=for-the-badge)
-![Hierarchical--Clustering](https://img.shields.io/badge/Hierarchical--Clustering-8BC34A?style=for-the-badge)
-![Bagging](https://img.shields.io/badge/Bagging-4CAF50?style=for-the-badge)
 ![Boosting](https://img.shields.io/badge/Boosting-3F51B5?style=for-the-badge)
 ![Stacking](https://img.shields.io/badge/Stacking-9C27B0?style=for-the-badge)
 ![Cross--Validation](https://img.shields.io/badge/Cross--Validation-4CAF50?style=for-the-badge)
-![KFold](https://img.shields.io/badge/KFold-2196F3?style=for-the-badge)
 ![Stratified--KFold](https://img.shields.io/badge/Stratified--KFold-673AB7?style=for-the-badge)
-![TimeSeries--Split](https://img.shields.io/badge/TimeSeries--Split-009688?style=for-the-badge)
 ![ROC--AUC](https://img.shields.io/badge/ROC--AUC-FF6F00?style=for-the-badge)
-![Precision--Recall](https://img.shields.io/badge/Precision--Recall-FF5722?style=for-the-badge)
 ![F1--Score](https://img.shields.io/badge/F1--Score-3F51B5?style=for-the-badge)
-![Confusion--Matrix](https://img.shields.io/badge/Confusion--Matrix-000000?style=for-the-badge)
-![Log--Loss](https://img.shields.io/badge/Log--Loss-FF9800?style=for-the-badge)
-![MAE](https://img.shields.io/badge/MAE-3F51B5?style=for-the-badge)
-![RMSE](https://img.shields.io/badge/RMSE-009688?style=for-the-badge)
 ![SHAP](https://img.shields.io/badge/SHAP-FF0055?style=for-the-badge)
 ![LIME](https://img.shields.io/badge/LIME-00C853?style=for-the-badge)
-![ARIMA](https://img.shields.io/badge/ARIMA-000000?style=for-the-badge)
 ![Regularization](https://img.shields.io/badge/Regularization-795548?style=for-the-badge)
-![Outlier--Detection](https://img.shields.io/badge/Outlier--Detection-FF0000?style=for-the-badge)
 ![Feature--Selection](https://img.shields.io/badge/Feature--Selection-8BC34A?style=for-the-badge)
 ![Data--Leakage](https://img.shields.io/badge/Data--Leakage-FF0000?style=for-the-badge)
 ![Overfitting](https://img.shields.io/badge/Overfitting-FF5722?style=for-the-badge)
 ![Underfitting](https://img.shields.io/badge/Underfitting-607D8B?style=for-the-badge)
-![Noise--Reduction](https://img.shields.io/badge/Noise--Reduction-3F51B5?style=for-the-badge)
-![Data--Validation](https://img.shields.io/badge/Data--Validation-9C27B0?style=for-the-badge)
 
 
 ### 🧠 Deep Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Neural Networks](https://img.shields.io/badge/Neural--Networks-000000?style=for-the-badge)
-![ANN](https://img.shields.io/badge/ANN-4CAF50?style=for-the-badge)
 ![CNN](https://img.shields.io/badge/CNN-FF5722?style=for-the-badge)
 ![RNN](https://img.shields.io/badge/RNN-3F51B5?style=for-the-badge)
 ![LSTM](https://img.shields.io/badge/LSTM-9C27B0?style=for-the-badge)
 ![GRU](https://img.shields.io/badge/GRU-009688?style=for-the-badge)
 ![Dropout](https://img.shields.io/badge/Dropout-FF9800?style=for-the-badge)
 ![BatchNorm](https://img.shields.io/badge/BatchNorm-795548?style=for-the-badge)
-![LayerNorm](https://img.shields.io/badge/LayerNorm-607D8B?style=for-the-badge)
-![Activation--Functions](https://img.shields.io/badge/Activation--Functions-000000?style=for-the-badge)
 ![ReLU](https://img.shields.io/badge/ReLU-FFEB3B?style=for-the-badge)
-![Sigmoid](https://img.shields.io/badge/Sigmoid-4CAF50?style=for-the-badge)
-![Tanh](https://img.shields.io/badge/Tanh-3F51B5?style=for-the-badge)
-![Loss--Functions](https://img.shields.io/badge/Loss--Functions-000000?style=for-the-badge)
 ![MSE](https://img.shields.io/badge/MSE-009688?style=for-the-badge)
-![Backpropagation](https://img.shields.io/badge/Backpropagation-795548?style=for-the-badge)
-![Gradient--Descent](https://img.shields.io/badge/Gradient--Descent-000000?style=for-the-badge)
 ![Adam](https://img.shields.io/badge/Adam-FF9800?style=for-the-badge)
+![Backpropagation](https://img.shields.io/badge/Backpropagation-795548?style=for-the-badge)
 ![Learning--Rate](https://img.shields.io/badge/Learning--Rate-3F51B5?style=for-the-badge)
 ![Early--Stopping](https://img.shields.io/badge/Early--Stopping-607D8B?style=for-the-badge)
 ![Transfer--Learning](https://img.shields.io/badge/Transfer--Learning-FF6F00?style=for-the-badge)
@@ -126,46 +104,21 @@ My work centers on **developing intelligent, adaptive, and real-world AI systems
 
 
 ### 🧠 NLP & Representation Learning
-
 ![NLTK](https://img.shields.io/badge/NLTK-3C3B6E?style=for-the-badge)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge)
-![Gensim](https://img.shields.io/badge/Gensim-FFA500?style=for-the-badge)
 ![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge)
 ![SentenceTransformers](https://img.shields.io/badge/SentenceTransformers-00AEEF?style=for-the-badge)
-![BERT](https://img.shields.io/badge/BERT-000000?style=for-the-badge)
-![RoBERTa](https://img.shields.io/badge/RoBERTa-FF5722?style=for-the-badge)
-![DistilBERT](https://img.shields.io/badge/DistilBERT-4CAF50?style=for-the-badge)
-![ALBERT](https://img.shields.io/badge/ALBERT-3F51B5?style=for-the-badge)
 ![TF-IDF](https://img.shields.io/badge/TF--IDF-800080?style=for-the-badge)
-![Bag--of--Words](https://img.shields.io/badge/Bag--of--Words-795548?style=for-the-badge)
-![N-Grams](https://img.shields.io/badge/N--Grams-009688?style=for-the-badge)
 ![Word2Vec](https://img.shields.io/badge/Word2Vec-FF4500?style=for-the-badge)
-![GloVe](https://img.shields.io/badge/GloVe-00BCD4?style=for-the-badge)
 ![FastText](https://img.shields.io/badge/FastText-FF9800?style=for-the-badge)
 ![Tokenization](https://img.shields.io/badge/Tokenization-000000?style=for-the-badge)
-![Subword--Tokenization](https://img.shields.io/badge/Subword--Tokenization-4CAF50?style=for-the-badge)
-![BytePair--Encoding](https://img.shields.io/badge/BPE-3F51B5?style=for-the-badge)
+![BPE](https://img.shields.io/badge/BPE-3F51B5?style=for-the-badge)
 ![Lemmatization](https://img.shields.io/badge/Lemmatization-9C27B0?style=for-the-badge)
-![Stemming](https://img.shields.io/badge/Stemming-607D8B?style=for-the-badge)
-![Stopword--Removal](https://img.shields.io/badge/Stopword--Removal-FF5722?style=for-the-badge)
-![POS--Tagging](https://img.shields.io/badge/POS--Tagging-FFC107?style=for-the-badge)
 ![NER](https://img.shields.io/badge/NER-009688?style=for-the-badge)
-![Chunking](https://img.shields.io/badge/Chunking-795548?style=for-the-badge)
-![Text--Classification](https://img.shields.io/badge/Text--Classification-FF6F00?style=for-the-badge)
-![Sentiment--Analysis](https://img.shields.io/badge/Sentiment--Analysis-00BCD4?style=for-the-badge)
-![Topic--Modeling](https://img.shields.io/badge/Topic--Modeling-795548?style=for-the-badge)
-![TextBlob](https://img.shields.io/badge/TextBlob-F77F00?style=for-the-badge)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-FFC107?style=for-the-badge)
-![Regex](https://img.shields.io/badge/Regex-000000?style=for-the-badge)
 ![Attention](https://img.shields.io/badge/Attention-3F51B5?style=for-the-badge)
-![Self--Attention](https://img.shields.io/badge/Self--Attention-009688?style=for-the-badge)
-![Encoder--Decoder](https://img.shields.io/badge/Encoder--Decoder-FF9800?style=for-the-badge)
 ![Seq2Seq](https://img.shields.io/badge/Seq2Seq-795548?style=for-the-badge)
-![Machine--Translation](https://img.shields.io/badge/Machine--Translation-009688?style=for-the-badge)
-![Text--Summarization](https://img.shields.io/badge/Text--Summarization-FF5722?style=for-the-badge)
-![Question--Answering](https://img.shields.io/badge/Question--Answering-3F51B5?style=for-the-badge)
 ![Semantic--Search](https://img.shields.io/badge/Semantic--Search-00BCD4?style=for-the-badge)
-![Embedding](https://img.shields.io/badge/Embeddings-9C27B0?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-9C27B0?style=for-the-badge)
 ![BLEU](https://img.shields.io/badge/BLEU-4CAF50?style=for-the-badge)
 ![ROUGE](https://img.shields.io/badge/ROUGE-FF9800?style=for-the-badge)
 
@@ -174,7 +127,6 @@ My work centers on **developing intelligent, adaptive, and real-world AI systems
 ![LangChain](https://img.shields.io/badge/LangChain-007ACC?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-007ACC?style=for-the-badge)
 ![LangSmith](https://img.shields.io/badge/LangSmith-007ACC?style=for-the-badge)
-![LangServe](https://img.shields.io/badge/LangServe-000000?style=for-the-badge)
 ![AgentOps](https://img.shields.io/badge/AgentOps-007ACC?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-0080FF?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt--Engineering-000000?style=for-the-badge)
@@ -184,74 +136,35 @@ My work centers on **developing intelligent, adaptive, and real-world AI systems
 ![AutoGen](https://img.shields.io/badge/AutoGen-4CAF50?style=for-the-badge)
 ![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent--Systems-3F51B5?style=for-the-badge)
 ![Agent Orchestration](https://img.shields.io/badge/Agent--Orchestration-009688?style=for-the-badge)
-![Task Decomposition](https://img.shields.io/badge/Task--Decomposition-795548?style=for-the-badge)
 ![Planning](https://img.shields.io/badge/Planning-FF9800?style=for-the-badge)
 ![Reasoning](https://img.shields.io/badge/Reasoning-607D8B?style=for-the-badge)
-![Chain of Thought](https://img.shields.io/badge/Chain--of--Thought-4CAF50?style=for-the-badge)
-![Tree of Thoughts](https://img.shields.io/badge/Tree--of--Thoughts-3F51B5?style=for-the-badge)
 ![ReAct](https://img.shields.io/badge/ReAct-9C27B0?style=for-the-badge)
-![Reflection](https://img.shields.io/badge/Reflection-795548?style=for-the-badge)
-![Self-Consistency](https://img.shields.io/badge/Self--Consistency-009688?style=for-the-badge)
-![Tool Router](https://img.shields.io/badge/Tool--Router-000000?style=for-the-badge)
-![Tool Selection](https://img.shields.io/badge/Tool--Selection-4CAF50?style=for-the-badge)
-![Dynamic Routing](https://img.shields.io/badge/Dynamic--Routing-FF5722?style=for-the-badge)
 ![Memory](https://img.shields.io/badge/Memory-3F51B5?style=for-the-badge)
-![Short-Term Memory](https://img.shields.io/badge/Short--Term--Memory-009688?style=for-the-badge)
 ![Long-Term Memory](https://img.shields.io/badge/Long--Term--Memory-795548?style=for-the-badge)
-![Vector Memory](https://img.shields.io/badge/Vector--Memory-FF9800?style=for-the-badge)
-![Context Management](https://img.shields.io/badge/Context--Management-607D8B?style=for-the-badge)
-![Session Handling](https://img.shields.io/badge/Session--Handling-4CAF50?style=for-the-badge)
-![Fallback Mechanism](https://img.shields.io/badge/Fallback-FF0000?style=for-the-badge)
-![Retry Logic](https://img.shields.io/badge/Retry--Logic-FF5722?style=for-the-badge)
-![Error Handling](https://img.shields.io/badge/Error--Handling-607D8B?style=for-the-badge)
-![Retrieval Augmentation](https://img.shields.io/badge/Retrieval--Augmentation-009688?style=for-the-badge)
-![Hybrid Search](https://img.shields.io/badge/Hybrid--Search-3F51B5?style=for-the-badge)
-![Semantic Retrieval](https://img.shields.io/badge/Semantic--Retrieval-795548?style=for-the-badge)
-![Embedding Models](https://img.shields.io/badge/Embedding--Models-9C27B0?style=for-the-badge)
-![Vector Search](https://img.shields.io/badge/Vector--Search-FF9800?style=for-the-badge)
-![Agent Communication](https://img.shields.io/badge/Agent--Communication-000000?style=for-the-badge)
-![State Management](https://img.shields.io/badge/State--Management-4CAF50?style=for-the-badge)
-![LLM Evaluation](https://img.shields.io/badge/LLM--Evaluation-3F51B5?style=for-the-badge)
-![Hallucination Detection](https://img.shields.io/badge/Hallucination--Detection-FF0000?style=for-the-badge)
-![Guardrails](https://img.shields.io/badge/Guardrails-009688?style=for-the-badge)
-![Prompt Chaining](https://img.shields.io/badge/Prompt--Chaining-795548?style=for-the-badge)
-![Few-Shot Learning](https://img.shields.io/badge/Few--Shot-4CAF50?style=for-the-badge)
-![Zero-Shot Learning](https://img.shields.io/badge/Zero--Shot-3F51B5?style=for-the-badge)
+![Tool Router](https://img.shields.io/badge/Tool--Router-000000?style=for-the-badge)
+![Fallback](https://img.shields.io/badge/Fallback-FF0000?style=for-the-badge)
 
 
 ### 🔥 LLM Fine-Tuning & Training
-
 ![PEFT](https://img.shields.io/badge/PEFT-FF6F00?style=for-the-badge)
 ![LoRA](https://img.shields.io/badge/LoRA-00AEEF?style=for-the-badge)
 ![QLoRA](https://img.shields.io/badge/QLoRA-B500FF?style=for-the-badge)
 ![SFT](https://img.shields.io/badge/SFT-007ACC?style=for-the-badge)
+![TRL](https://img.shields.io/badge/TRL-000000?style=for-the-badge)
 ![Tokenizers](https://img.shields.io/badge/Tokenizers-000000?style=for-the-badge)
 ![Datasets](https://img.shields.io/badge/HF--Datasets-FFD21F?style=for-the-badge)
-![Accelerate](https://img.shields.io/badge/Accelerate-FFD21F?style=for-the-badge)
 ![Instruction--Tuning](https://img.shields.io/badge/Instruction--Tuning-FF5722?style=for-the-badge)
 ![Fine--Tuning](https://img.shields.io/badge/Fine--Tuning-00BCD4?style=for-the-badge)
-![Parameter--Efficient](https://img.shields.io/badge/Parameter--Efficient-9C27B0?style=for-the-badge)
-![Prompt--Tuning](https://img.shields.io/badge/Prompt--Tuning-3F51B5?style=for-the-badge)
-![Prefix--Tuning](https://img.shields.io/badge/Prefix--Tuning-795548?style=for-the-badge)
-![Adapters](https://img.shields.io/badge/Adapters-607D8B?style=for-the-badge)
 ![RLHF](https://img.shields.io/badge/RLHF-FF9800?style=for-the-badge)
-![Supervised--Learning](https://img.shields.io/badge/Supervised--Learning-009688?style=for-the-badge)
-![Unsupervised--Learning](https://img.shields.io/badge/Unsupervised--Learning-795548?style=for-the-badge)
+![DPO](https://img.shields.io/badge/DPO-4CAF50?style=for-the-badge)
 ![Mixed--Precision](https://img.shields.io/badge/Mixed--Precision-4CAF50?style=for-the-badge)
-![Model--Sharding](https://img.shields.io/badge/Model--Sharding-607D8B?style=for-the-badge)
+![Gradient--Accumulation](https://img.shields.io/badge/Gradient--Accumulation-000000?style=for-the-badge)
 ![Quantization](https://img.shields.io/badge/Quantization-FF6F00?style=for-the-badge)
+![Checkpointing](https://img.shields.io/badge/Checkpointing-795548?style=for-the-badge)
 ![Inference--Optimization](https://img.shields.io/badge/Inference--Optimization-009688?style=for-the-badge)
-![Batching](https://img.shields.io/badge/Batching-795548?style=for-the-badge)
-![Tokenizer--Training](https://img.shields.io/badge/Tokenizer--Training-000000?style=for-the-badge)
-![Data--Formatting](https://img.shields.io/badge/Data--Formatting-4CAF50?style=for-the-badge)
-![Instruction--Dataset](https://img.shields.io/badge/Instruction--Dataset-FF9800?style=for-the-badge)
-![Loss--Functions](https://img.shields.io/badge/Loss--Functions-3F51B5?style=for-the-badge)
-![CrossEntropy](https://img.shields.io/badge/CrossEntropy-FF5722?style=for-the-badge)
+![vLLM](https://img.shields.io/badge/vLLM-FF6F00?style=for-the-badge)
 ![Evaluation](https://img.shields.io/badge/Evaluation-607D8B?style=for-the-badge)
 ![Perplexity](https://img.shields.io/badge/Perplexity-795548?style=for-the-badge)
-![Serving](https://img.shields.io/badge/Model--Serving-009688?style=for-the-badge)
-![vLLM](https://img.shields.io/badge/vLLM-FF6F00?style=for-the-badge)
-![Latency--Optimization](https://img.shields.io/badge/Latency--Optimization-4CAF50?style=for-the-badge)
 
 
 ### 🧠 Vector Databases & Retrieval
@@ -265,36 +178,24 @@ My work centers on **developing intelligent, adaptive, and real-world AI systems
 
 
 ### 📊 Data Science & Analysis
-
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-1F77B4?style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Data Cleaning](https://img.shields.io/badge/Data--Cleaning-000000?style=for-the-badge)
-![Data Wrangling](https://img.shields.io/badge/Data--Wrangling-4CAF50?style=for-the-badge)
-![Data Transformation](https://img.shields.io/badge/Data--Transformation-FF9800?style=for-the-badge)
-![Data Aggregation](https://img.shields.io/badge/Data--Aggregation-3F51B5?style=for-the-badge)
-![Data Filtering](https://img.shields.io/badge/Data--Filtering-9C27B0?style=for-the-badge)
 ![EDA](https://img.shields.io/badge/EDA-009688?style=for-the-badge)
 ![Statistical Analysis](https://img.shields.io/badge/Statistical--Analysis-795548?style=for-the-badge)
-![Descriptive Statistics](https://img.shields.io/badge/Descriptive--Stats-607D8B?style=for-the-badge)
-![Inferential Statistics](https://img.shields.io/badge/Inferential--Stats-FF5722?style=for-the-badge)
 ![Hypothesis Testing](https://img.shields.io/badge/Hypothesis--Testing-FFC107?style=for-the-badge)
-![Correlation Analysis](https://img.shields.io/badge/Correlation-3F51B5?style=for-the-badge)
-![Covariance](https://img.shields.io/badge/Covariance-607D8B?style=for-the-badge)
+![Correlation](https://img.shields.io/badge/Correlation-3F51B5?style=for-the-badge)
+![Data Cleaning](https://img.shields.io/badge/Data--Cleaning-000000?style=for-the-badge)
+![Data Wrangling](https://img.shields.io/badge/Data--Wrangling-4CAF50?style=for-the-badge)
 ![Data Visualization](https://img.shields.io/badge/Data--Visualization-FF6F00?style=for-the-badge)
 ![Interactive Visualization](https://img.shields.io/badge/Interactive--Viz-00BCD4?style=for-the-badge)
-![Dashboarding](https://img.shields.io/badge/Dashboarding-795548?style=for-the-badge)
 ![Time Series Analysis](https://img.shields.io/badge/Time--Series-4CAF50?style=for-the-badge)
-![Trend Analysis](https://img.shields.io/badge/Trend--Analysis-009688?style=for-the-badge)
-![Missing Values](https://img.shields.io/badge/Missing--Values-4CAF50?style=for-the-badge)
-![Data Imputation](https://img.shields.io/badge/Data--Imputation-00BCD4?style=for-the-badge)
 ![Feature Engineering](https://img.shields.io/badge/Feature--Engineering-8BC34A?style=for-the-badge)
 ![Data Pipeline](https://img.shields.io/badge/Data--Pipeline-000000?style=for-the-badge)
 ![ETL](https://img.shields.io/badge/ETL-FF5722?style=for-the-badge)
 ![Data Validation](https://img.shields.io/badge/Data--Validation-9C27B0?style=for-the-badge)
-![Data Quality](https://img.shields.io/badge/Data--Quality-607D8B?style=for-the-badge)
 ![Big Data](https://img.shields.io/badge/Big--Data-FF9800?style=for-the-badge)
 
 
@@ -340,40 +241,44 @@ My work centers on **developing intelligent, adaptive, and real-world AI systems
 ---
 
 ## 📊 GitHub Stats:
-<!--Github stats Table--> 
+<!--Github stats Table-->
 <table width="100%">
   <tr>
-    <td width="50%">
+    <td width="100%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/Md-Emon-Hasan">
-          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=Md-Emon-Hasan&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Md-Emon-Hasan">
-          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=Md-Emon-Hasan&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+          <img width="100%" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=Md-Emon-Hasan&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
         </a>
       </p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+    <td width="100%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/Md-Emon-Hasan/Translatica">
-          <img align="center" width="470" height="200" src="https://github.com/user-attachments/assets/f333d2a8-3ae5-40d5-ae72-28a55a976872" alt="Awesome-Dev-Portfolios" />
+        <a href="https://github.com/Md-Emon-Hasan">
+          <img width="100%" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=Md-Emon-Hasan&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
         </a>
       </p>
     </td>
-    <td width="50%">
+  </tr>
+  <tr>
+    <td width="100%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/Md-Emon-Hasan">
-          <img align="center" src="https://github-repository-contribution-stat-green.vercel.app/api?username=Md-Emon-Hasan&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+          <img width="100%" src="https://github-readme-stats-xi-seven-23.vercel.app/api/top-langs/?username=Md-Emon-Hasan&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&layout=compact" alt="Top Contributions" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Md-Emon-Hasan/Translatica">
+          <img width="100%" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=Md-Emon-Hasan&repo=Translatica&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Latest Project" />
         </a>
       </p>
     </td>
@@ -421,5 +326,5 @@ My work centers on **developing intelligent, adaptive, and real-world AI systems
 
 <!--Footer--> 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=95&section=footer"/>
 </p>
